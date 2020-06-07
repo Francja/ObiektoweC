@@ -1,0 +1,13 @@
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\bin\Debug\netcoreapp3.1\ABZaliczenieObiektowe.exe
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\bin\Debug\netcoreapp3.1\ABZaliczenieObiektowe.deps.json
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\bin\Debug\netcoreapp3.1\ABZaliczenieObiektowe.runtimeconfig.json
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\bin\Debug\netcoreapp3.1\ABZaliczenieObiektowe.runtimeconfig.dev.json
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\bin\Debug\netcoreapp3.1\ABZaliczenieObiektowe.dll
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\bin\Debug\netcoreapp3.1\ABZaliczenieObiektowe.pdb
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.csprojAssemblyReference.cache
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.csproj.CoreCompileInputs.cache
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.AssemblyInfoInputs.cache
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.AssemblyInfo.cs
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.dll
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.pdb
+C:\Users\adamb\source\repos\ABZaliczenieObiektowe\ABZaliczenieObiektowe\obj\Debug\netcoreapp3.1\ABZaliczenieObiektowe.genruntimeconfig.cache
